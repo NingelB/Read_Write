@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "933511390934",
+    "firebase_url": "https://readwrite-5f705.firebaseio.com",
+    "project_id": "readwrite-5f705",
+    "storage_bucket": "readwrite-5f705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933511390934:android:8efc3784f7d1dfd1",
+        "android_client_info": {
+          "package_name": "com.example.cmltdstudent.read_write"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933511390934-8tttksb8fpas14c92ah946v28dpeqktk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiDJhgaH23pxIo1pyLAbE1wM7rGy07czU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
